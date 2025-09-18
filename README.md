@@ -68,10 +68,3 @@ The project will be split into multiple repositories:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
-
-
----
-
-## 📫 Contact
-
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/bartosz-polakowski/)
